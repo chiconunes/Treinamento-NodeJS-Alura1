@@ -1,0 +1,19 @@
+{
+    "mysql":{
+        "banco-de-dados" : "petshop66",
+        "usuario": "chiconunes",
+        "senha": "12345678",
+        "host": "db4free.net"
+
+    },
+    "mysql1":{
+        "banco-de-dados" : "petshop",
+        "usuario": "root",
+        "senha": "123456",
+        "host": "127.0.0.1"
+
+    },
+    "api":{
+        "porta":3000
+    }
+}
